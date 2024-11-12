@@ -1,4 +1,5 @@
-# Find the GCD of two numbers
+# DATE:
+# EXP-4: Find the GCD of two numbers
 
 ## AIM:
 To write a program to find the GCD of two numbers using function.
@@ -15,6 +16,9 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
+Developed by: A K PREETHI
+RegisterNumber: 212223230156 
+
 
 Program to find the gcd of two number using function.
 def gcd():
@@ -28,8 +32,6 @@ def gcd():
             hcf=i
     print(f"GCD of two numbers is: {hcf}")
 
-Developed by: A K PREETHI
-RegisterNumber: 212223230156 
 
 ```
 
